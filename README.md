@@ -34,3 +34,10 @@ This Streamlit app allows users to upload CSV files, visualize data in various c
 5. Run the Streamlit app
     ```bash
     streamlit run app.py
+
+
+## issues
+
+- Adding advanced chats and Multiple options
+- Adding scatter chart
+- Adding advanced chart elements to Streamlit
