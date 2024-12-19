@@ -34,7 +34,7 @@ This Streamlit app allows users to upload CSV files, visualize data in various c
 5. Run the Streamlit app
     ```bash
     streamlit run app.py
-
+6. Open your browser and navigate to http://localhost:8501
 ## Issues
 
 - Adding advanced chats and Multiple options
